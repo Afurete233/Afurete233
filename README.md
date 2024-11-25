@@ -4,4 +4,4 @@
   </a>
 </div>
 
-![](https://github.com/Afurete233/Afurete233/blob/main/img/bg.jpeg)
+![](https://github.com/Afurete233/Afurete233/blob/main/img/bg1.jpeg)
